@@ -41,4 +41,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
