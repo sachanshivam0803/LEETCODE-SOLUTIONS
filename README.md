@@ -37,4 +37,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
