@@ -19,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0136-single-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -32,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0509-fibonacci-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
