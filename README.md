@@ -65,4 +65,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
