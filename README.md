@@ -76,6 +76,7 @@
 | [0584-find-customer-referee](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/sachanshivam0803/LEETCODE-SOLUTIONS/tree/main/0626-exchange-seats/) | Medium |
